@@ -1,3 +1,7 @@
-<template></template>
+<template>
+  <RandomIcons />
+</template>
 
-<script setup></script>
+<script setup>
+import RandomIcons from "./components/RandomIcons/RandomIcons.vue";
+</script>
