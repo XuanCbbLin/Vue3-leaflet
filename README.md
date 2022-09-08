@@ -6,6 +6,10 @@
 
 https://github.com/XuanCbbLin/Vue3-leaflet/blob/master/src/components/RandomIcons/RandomIcons.vue
 
+### day13 LinkedView
+
+https://github.com/XuanCbbLin/Vue3-leaflet/tree/master/src/components/LinkedView
+
 ## Project Setup
 
 ```sh
