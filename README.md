@@ -10,6 +10,10 @@ https://github.com/XuanCbbLin/Vue3-leaflet/blob/master/src/components/RandomIcon
 
 https://github.com/XuanCbbLin/Vue3-leaflet/tree/master/src/components/LinkedView
 
+### day14 customMarkerAndPopup
+
+https://github.com/XuanCbbLin/Vue3-leaflet/tree/master/src/components/CustomMarkerAndPopup
+
 ## Project Setup
 
 ```sh
